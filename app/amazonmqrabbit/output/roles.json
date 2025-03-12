@@ -1,0 +1,7 @@
+{
+  "amazonmqrabbit-bitbucketrole": {
+    "bitbucketRole": "arn:aws:iam::437863366236:role/amazonmqrabbit-bitbucketr-bitbucketiamroleB5BC3B8F-MG8RD292TY3Z",
+    "snstopicoutput": "arn:aws:sns:ap-southeast-2:437863366236:amazonmqrabbit-bitbucketrole-amazonmqrabbitPipelineResultNotification80FE738B-QEHO0OoZKCWH",
+    "bitbucketS3Bucket": "amazonmqrabbit-bitbucket-amazonmqrabbitbitbuckets-t9k9q1m2rnfu"
+  }
+}
